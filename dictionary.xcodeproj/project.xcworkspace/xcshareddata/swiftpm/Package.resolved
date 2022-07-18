@@ -1,0 +1,31 @@
+{
+  "pins" : [
+    {
+      "identity" : "imageviewer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Krisiacik/ImageViewer",
+      "state" : {
+        "revision" : "afa05de10aa48438c305e631bab95ab38b6215d4"
+      }
+    },
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke",
+      "state" : {
+        "revision" : "7f73ceaeacd5df75a7994cd82e165ad9ff1815db",
+        "version" : "9.6.1"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "07c5d1f6044701d97e94dc11157259e8811977be"
+      }
+    }
+  ],
+  "version" : 2
+}
